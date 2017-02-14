@@ -1,6 +1,6 @@
 ---
 title: "Week2 :  Reproducible Research - Activity Monitoring Data"
-output: html_document
+output: md_document
 ---
 
 ```{r , echo=TRUE, message=FALSE, warning=FALSE}
